@@ -1,0 +1,30 @@
+Akshan=atirador=Nao da dano=4
+Aphelios=atirador=Olha a lua=3
+Ashe=atirador=Olha a flecha=4
+Azir=atirador=Drift King=4
+Caitlyn=atirador=Sniper=4
+Corki=atirador=Missel=4
+Draven=atirador=Reta da morte=4
+Ezreal=atirador=Barragem incendiária=4
+Graves=atirador=Sai vivoooo, não hoje amigo=4
+Jayce=atirador=Hora martelo, hora canhao=7
+Jhin=atirador=4=4
+Jinx=atirador=Missel da morte=4
+Kai'sa=atirador=Oi hi kwai=4
+Klaista=atirador=Te pego e te jooj=4
+Kennen=atirador=Choquin=4
+Kindred=atirador=Nao no meu refugio=4
+Kog'maw=atirador=Bleb=4
+Lucian=atirador=TURURUURURUURURUUURURU=4
+Miss Fortune=atirador=PARARARARARARARARA=4
+Quinn=atirador=Piriquito voador=4
+Samira=atirador=S de superman=4
+Senna=atirador=nada, MORTE, nada=4
+Sivir=atirador=Run Barry, run=4
+Teemo=atirador=Pisei na merda=4
+Tristana=atirador=Sai pra la=4
+Twitch=atirador=Rexpeita o ratooo=4
+Varus=atirador=Flecha=4
+Vayne=atirador=Cade? acho=4
+Xayah=atirador=PENA=4
+Zeri=atirador=CHOQUE=4

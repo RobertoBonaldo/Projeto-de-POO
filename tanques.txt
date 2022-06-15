@@ -1,0 +1,44 @@
+Aatrox=Tanques=Olha vou me matar e regenerar toda a minha vida=4
+Alistar=Tanques=Bate vai, é só bater=4
+Amumu=Tanques=Triste=4
+Blizcrank=Tanques=Silence=4
+Braum=Tanques=Toma esse gelo ai=4
+Camille=Tanques=Cercadinho da disciplina, vai tomar pernada=4
+Cho'gath=Tanques=NHAM NHAM=4
+Darius=Tanques=Guilhotina de noxus=4
+Dr. Mundo=Tanques=Pega meus anabolizantes ai=4
+Galio=Tanques=Chegando galera=4
+Garen=Tanques=DEMACIAAAAA=4
+Gnar=Tanques=Te jogo na parede e chamo de lagartixa=7
+Hecarim=Tanques=CAVALO=4
+Illaoi=Tanques=Muie tentaculo=4
+Jarvan IV=Tanques=DEMACIAAAAA=4
+Kled=Tanques=AVANÇARRRRRR!!!=7
+Leona=Tanques=Sol que da stun=4
+Malphite=Tanques=Olha a pedra=4
+Maokai=Tanques=Rizes aos seus pes=4
+Nasus=Tanques=Cachorro=4
+Nautilus=Tanques=Chafariz=4
+Nunu e Willump=Tanques=Frio=4
+Olaf=Lutadores=Pega meu machado ai=4
+Ornn=Tanques=Olha o cabrito=4
+Poppy=Tanques=Martelo=4
+Rammus=Tanques=OK=4
+Rell=Tanques=Quem entende essa ult né?=4
+Renekton=Tanques=Mata a lagartixa agora=4
+Sejuani=Tanques=Pedra de gelo=4
+Sett=Tanques=JHON CENAAAAA=4
+Shen=Tanques=Nunca tera 1x1 ou 2x2 comigo no game=4
+Shyvana=Tanques=Muie dragão=7
+Singed=Tanques=Corre atras de mim corre=4
+Sion=Tanques=Olha o tremmm=4
+Skarner=Tanques=Nao quero, mas eu quero entao vem=4
+Tahm Kench=Tanques=TE COMI=4
+Trundle=Tanques=Vem pro pau=4
+Udyr=Tanques=Corre como fenix=4
+Urgot=Tanques=Vem ca bem vem=4
+Volibear=Tanques=Ursal=4
+Warwick=Tanques=INHAW UAU=4
+Wukong=Tanques=OLHA O MACACO=4
+Yorick=Tanques=Chega ae muie=4
+Zac=Tanques=Pula pula amoeba=4

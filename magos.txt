@@ -1,0 +1,62 @@
+Ahri=Mago=Charme=4
+Amumu=Mago=Tristeza=4
+Anivia=Mago=Circulo de gelo=4
+Annie=Mago=TIBBERS=4
+Aurelion Sol=Mago=CUSPIDA CELESTIAL=4
+Azir=Mago=Parede de escravo=4
+Bardo=Mago=Troll=4
+Brand=Mago=Fogo que quica=4
+Cassiopeia=Mago=Pedra=4
+Cho'Gath=Mago=NHAM NHAM=4
+Diana=Mago=Chega ai galera=4
+Elise=Mago=Muie Aranha=7
+Evelynn=Mago=Oi docinho=4
+Ezreal=Mago=Barragem incendiaria=4
+Fiddlesticks=Mago=Susto=4
+Galio=Mago=Chegando galera=4
+Gragas=Mago=Joga uma cerveja ai=4
+Heimerdinger=Mago=Muita tecnologia=7
+Ivern=Mago=Margarida=4
+Janna=Mago=Vento=4
+Jhin=Mago=Pq isso na mago?=4
+Karma=Mago=Mesma coisa das habilidades melhor=7
+Karthus=Mago=ULTA KARTHUSSSSSSss=4
+Kassadin=Mago=Late é nosso=4
+Katarina=Mago=Gira adaga=4
+Kennen=Mago=Choque=4
+Kog'Maw=Mago=BLAB=4
+Leblanc=Mago=Mimica=4
+Lillia=Mago=Sonin=4
+Lissandra=Mago=Te tacar gelo reage vai=4
+Lulu=Mago=Grandao=4
+Lux=Mago=PIU=4
+Malzahar=Mago=Se nao fazer bandana vai tomar ult=4
+Maokai=Mago=Arvore=4
+Morgana=Mago=Prisao das trevas=4
+Nami=Mago=Olha onda, Olha ona=4
+Neeko=Mago=Sei la=4
+Nidalee=Mago=Muie Puma=7
+Orianna=Mago=Nao perde minha bola de vista heim =4
+Renata Glasc=Mago=Se bate ai otario=4
+Rumble=Mago=Pe ta pegando fogo=4
+Ryze=Mago=Alguem usa isso?=4
+Seraphine=Mago=CANTO=4
+Sona=Mago=CANTO MUDO=4
+Soraka=Mago=CURA=4
+Swain=Mago=Nao renunciarei=4
+Sylas=Mago=Me da sua ult? pf=4
+Syndra=Mago=Bolas=4
+Taliyah=Mago=Surfe em parede de pedras=4
+Twisted Fate=Mago=Chegando com carta amarela, merda aperdei na vermelha=4
+Varus=Mago=para, toma flecha=4
+Veigar=Mago=Eu sou mal, pare de rir=4
+Vel'Koz=Mago=RAIO DESINTEGRADOR DE FORMAS DE VIDA=4
+Vex=Mago=Tedio=4
+Viktor=Mago=RAIOZIN=4
+Vladimir=Mago=Me da seu sangue?=4
+Xerath=Mago=Piu Piu Piu=4
+Yummi=Mago=Erva de gato=4
+Ziggs=Mago=Todas vez que o ziggs ulta seu fps cai?=4
+Zilean=Mago=Revive ai=4
+Zoe=Mago=Vamos pular=4
+Zyra=Mago=Circulo de planta=4

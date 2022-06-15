@@ -1,0 +1,68 @@
+Aatrox=Lutador=Aniquilador de mundos=4
+Blitzcrank=Lutador=Campo estático=4
+Camille=Lutador=Ultimato Hextec=4
+Darius=Lutador=Guilhotina de noxus=4
+Diana=Lutador=Colapso Minguante=4
+Dr. Mundo=Lutador=Dosagem maxima=4
+Ekko=Lutador=Cronoquebra=4
+Elise=Lutador=Forma de aranha=7
+Fiora=Lutador=Desafio grandioso=4
+Fizz=Lutador=Lança isca=4
+Gangplank=Lutador=Barragem de canhão=4
+Garen=Lutador=Justiça demaciana=4
+Gnar=Lutador=GNAR!=7
+Gragas=Lutador=Barril explosivo=4
+Gwen=Lutador=POnto-cruz=4
+Hecarim=Lutador=Massacre das sombras=4
+Illaoi=Lutador=Salto de fé=4
+Irelia=Lutador=Lamina da vanguarda=4
+Jarvan IV=Lutador=Cataclisma=4
+Jax=Lutador=Poder do grão-mestre=4
+Jayce=Lutador=Canhão de mercurio/Martelo de mercurio=7
+Kayle=Lutador=Sentença Divina=4
+Kayn=Lutador=Transgressao do umbral=4
+Kled=Lutador=AVANÇAAAAAAAAR!!!=4
+Lee sin=Lutador=Furia do dragão=4
+Lillia=Lutador=Cadencia de ninar=4
+Malphite=Lutador=Olha a pedra=4
+Master Yi=Lutador=Corre e bate=4
+Momrdekaiser=Lutador=Vamos conversar em particular?=4
+Nasus=Lutador=Cachorrão=4
+Nautilus=Lutador=Olha a agua=4
+Nocturne=Lutador=Apaga a luz, apaga tudo=4
+Nunu e Willump=Lutador=Ta frio la fora=4
+Olaf=Lutador=AAAAAAAAAAAAAAAAAA machado=4
+Ornn=Lutador=Olha o cabrito=4
+Pantheon=Lutador=Chegando=4
+Poppy=Lutador=Martelo=4
+Qiyana=Lutador=Te jogo na parede=4
+Rammus=Lutador=OK=4
+Rek'sai=Lutador=INHAWUN=4
+Renekton=Lutador=Quem vai parar a lagartixa=4
+Rengar=Lutador=Gatin, puff sumiu=4
+Riven=Lutador=Pega minha espada quebrada=4
+Rumble=Lutador=Fogo no teu pe=4
+Ryze=Lutador=Alguem usa isso?=4
+Sejuani=Lutador=Pedra de gelo=4
+Sett=Lutador=JHONNN CENAAAA=4
+Shyvana=Lutador=Dragão=7
+Singed=Lutador=Duvido correr atras de mim=4
+Sion== O TREMMM=4
+Skarner=Lutador=Nao quero ir, mas eu quero vem=4
+Swain=Lutador=Nao renunciarei=4
+Taric=Lutador=Imortal, cabo=4
+Thresh=Lutador=Caixa=4
+Trundle=Lutador=Cai po pau=4
+Tryndamere=Lutador=Vou correr pra torre, beleza te divo=4
+Udyr=Lutador=Corre em formato de fenix=4
+Urgot=Lutador=Mah vem pra ca=4
+VI=Lutador=Saque e enterrada=4
+Viego=Lutador=Quero seu champion=4
+Volibear=Lutador=URSAO=4
+Warwick=Lutador=INHAW=4
+Wukong=Lutador=OLHA O MACACO=4
+Xin Zhao=Lutador=Sai fora=4
+Yasuo=Lutador=M7=4
+Yone=Lutador=M7=4
+Yorick=Lutador=Vem ca muie=4
+Zac=Lutador=Pula pula amoeba=4

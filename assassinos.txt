@@ -1,0 +1,40 @@
+Ahri=Assassino=Impeto espiritual=4
+Akali=Assassino=Execução perfeita=4
+Akshan=Assassino=Punição=4
+Ekko=Assassino=Cronoquebra=4
+Evelynn=Assassino=Ultima caricia=4
+Fiora=Assassino=Desafio grandioso=4
+Fizz=Assassino=Lança isca=4
+Gwen=Assassino=Ponto-cruz=4
+Irelia=Assassino=Lamina da vanguarda=4
+Jax=Assassino=Poder do grão-mestre=4
+Kassadin=Assassino=Caminhar na fenda=4
+Katarina=Assassino=Lotus da morte=4
+Kayn=Assassino=Transgressao do umbral=4
+Kha'zix=Assassino=Massacre do vazio=4
+LeBlanc=Assassino=Mimica=4
+Lee Sin=Assassino=Furia do dragão=4
+Malzahar=Assassino=Aperto infero=4
+Master yi=Assassino=Highlander=4
+Nidalee=Assassino=aspecto do puma=7
+Nocturne=Assassino=Paranoia=4
+Pantheon=Assassino=Constelaçao cadente=4
+Pyke=Assassino=Morte das Profundezas=4
+Qiyana=Assassino=Suprema demonstraçao de talento=4
+Quinn=Assassino=Retaguarda do inimigo=4
+Rengar=Assassino=Furor da caçada=4
+Riven=Assassino=Lamina do exilio=4
+Shaco=Assassino=Alucinaçoes=4
+Sylas=Assassino=Usurpar=4
+Talon=Assassino=Ataque das sombras=4
+Teemo=Assassino=Armadilha venenosa=4
+Tristana=Assassino=Tiro destruidor=4
+Tryndamere=Assassino=Furia sem fim=4
+Twitch=Assassino=Passando fogo=4
+Vayne=Assassino=Hora final=4
+Vi=Assassino=Saque e enterrada=4
+Viego=Assassino=Destruidor de corações=4
+Xin zhao=Assassino=Guarda crescente=4
+Yasuo=Assassino=Ultimo suspiro=4
+Yone=Assassino=Destino selado=4
+Zed=Assassino=Marca Fatal=4
